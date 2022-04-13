@@ -11,6 +11,7 @@ public class Main {
 
         Usuario userBryan = new Usuario("Bryan", "Addams");//Chamando o método
         userBryan.imprimir();
+        walcker.imprimir(); //Imprimir usando o método
 
         System.out.println(walcker.nome + " " + walcker.sobrenome);
         System.out.println(cynara.nome + " " + cynara.sobrenome);
